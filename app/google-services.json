@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11494906420",
+    "firebase_url": "https://book-library-e7dce-default-rtdb.firebaseio.com",
+    "project_id": "book-library-e7dce",
+    "storage_bucket": "book-library-e7dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11494906420:android:e4b11b1e462eae7436c861",
+        "android_client_info": {
+          "package_name": "com.example.booklibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11494906420-u2j7mq3e5108oq93s7cso48oksf7ppai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5RnljTa1lawwzGzWSz8IDWEZQiOTsvVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11494906420-u2j7mq3e5108oq93s7cso48oksf7ppai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
